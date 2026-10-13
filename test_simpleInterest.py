@@ -1,4 +1,4 @@
-from simpleInterest import  simpInt
+from simpleinterest import  simpInt
 
 def test_simpleInt_pos():
     assert simpInt(20000,8,12)==19200
